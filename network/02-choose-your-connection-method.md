@@ -18,7 +18,7 @@ Un compte LeoTun offre six méthodes de connexion : Privé (Tailscale), Cisco (A
 - Connexion Internet qui coupe souvent, signal Wi‑Fi faible : Proxy Web. Il fonctionne requête par requête sans connexion permanente : par conception, il n'y a pas de connexion qui puisse tomber.
 - Haut débit de vieil immeuble, données mobiles, pertes de paquets élevées : Hiddify. Son protocole est conçu pour résister aux pertes de paquets et donne le meilleur débit sur ces réseaux.
 - L'ordinateur est déjà connecté au VPN de l'entreprise : Proxy Web. Deux VPN pour toute la machine qui tournent ensemble se disputent les réglages réseau ; le proxy web ne s'occupe que du navigateur, ils ne se gênent donc pas.
-- China Mobile, Great Wall Broadband et autres fournisseurs, ou liaisons internationales toujours instables : n'importe quelle méthode, avec un point d'entrée de la région Chine. Le client ne se connecte qu'à une adresse en Chine et nous nous chargeons du trajet international : il n'est donc pas touché par les perturbations transfrontalières.
+- China Mobile, Great Wall Broadband et autres fournisseurs, ou liaisons internationales toujours instables : n'importe quelle méthode, avec un point d'entrée de la région Chine. C'est généralement le choix le plus stable sur ces réseaux.
 
 ## Selon l'usage : ce que vous voulez faire
 
