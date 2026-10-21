@@ -45,4 +45,4 @@ Le premier démarrage est plus lent que d'habitude : le firmware cherche des mis
 **Les mises à jour des composants vont-elles couper ma connexion ?** Non. Les mises à jour sont vérifiées et téléchargées au démarrage et prennent effet au démarrage suivant. Le routeur ne redémarrera pas sous vos yeux en pleine utilisation.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-12) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-12) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-12) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-12) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente

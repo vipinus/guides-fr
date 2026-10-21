@@ -11,7 +11,7 @@
 | Élément | Remarques |
 |---|---|
 | Un routeur compatible | Un routeur préinstallé fonctionne dès la sortie du carton ; si vous le flashez vous-même, voir [Comment flasher le firmware](02-flash-firmware-yourself.md) |
-| Un compte | Les comptes Personnel, Famille et Entreprise prennent tous en charge la fonction routeur. Après l'inscription, demandez d'abord l'essai gratuit pour valider toute la procédure : un nouveau compte est en formule Personnel, avec un essai de 24 heures |
+| Un compte | Les comptes Personnel, Famille et Entreprise prennent tous en charge la fonction routeur. Après l'inscription, demandez d'abord l'essai gratuit pour valider toute la procédure : un nouveau compte est en formule Personnel, avec un essai de 4 heures |
 | Un réseau en amont | La box ou le routeur que vous avez déjà à la maison ; le nouveau routeur se branche derrière |
 
 ## C'est fait en cinq étapes
@@ -37,4 +37,4 @@ Le 1080p demande 5 Mbit/s stables, et la 4K 25 Mbit/s ou plus. Si la lecture sac
 - **Tout le foyer ralentit avec un vieux routeur** : le processeur ne suit pas le trafic chiffré ; passez à un modèle plus performant, voir [Premiers pas avec un routeur préinstallé](01-plug-and-play-router.md).
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-06) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-06) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-06) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-06) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente

@@ -24,9 +24,9 @@ Un test simple : si une coupure vous agace, c'est qu'il est temps de payer.
 
 ## Combien dépenser
 
-La formule Personnel de LeoTun coûte 4 dollars US par mois et comprend 24 régions, 2 appareils en ligne en même temps et toutes les méthodes de connexion (AnyConnect / OpenVPN / Hiddify / Proxy Web) ; elle s'utilise aussi avec un routeur. Les formules Famille et Entreprise coûtent respectivement 2 fois et 4 fois la formule Personnel. Régions, lignes et méthodes de connexion sont strictement identiques sur les trois formules ; seule change la limite d'appareils en ligne en même temps (4 et 8).
+La formule Personnel de LeoTun coûte 5 dollars US par mois et comprend 24 régions, 2 appareils en ligne en même temps et toutes les méthodes de connexion (AnyConnect / OpenVPN / Hiddify / Proxy Web) ; elle s'utilise aussi avec un routeur. Les formules Famille et Entreprise coûtent respectivement 2 fois et 4 fois la formule Personnel. Régions, lignes et méthodes de connexion sont strictement identiques sur les trois formules ; seule change la limite d'appareils en ligne en même temps (4 et 8).
 
-Si vous ne voulez pas acheter au mois, il y a deux voies : demandez d'abord l'essai gratuit de 24 heures (sans carte bancaire, une fois par compte) et testez-le une fois à l'heure de pointe du soir ; ou payez à la journée. Après une recharge de points, la formule Personnel consomme 1 point par jour, et 25 points coûtent 8 dollars US, soit environ 0,32 dollar US par jour ; n'en acheter que quelques jours avant un séjour en Chine convient très bien.
+Si vous ne voulez pas acheter au mois, il y a deux voies : demandez d'abord l'essai gratuit de 4 heures (sans carte bancaire, une fois par compte) et testez-le une fois à l'heure de pointe du soir ; ou payez à la journée. Après une recharge de points, la formule Personnel consomme 1 point par jour, et 25 points coûtent 8 dollars US, soit environ 0,32 dollar US par jour ; n'en acheter que quelques jours avant un séjour en Chine convient très bien.
 
 Quand un ami que vous invitez s'inscrit et paie pour la première fois, votre validité et la sienne sont chacune prolongées de 20 jours (base formule Personnel), sans limite de nombre. C'est une source durable de temps gratuit.
 
@@ -46,7 +46,7 @@ Quand un ami que vous invitez s'inscrit et paie pour la première fois, votre va
 
 **Qu'est-ce qui revient le moins cher, à la journée ou au mois ?** Si vous l'utilisez 12 jours ou plus par mois, le mois est plus avantageux ; si vous l'utilisez quelques jours de temps en temps, c'est la journée. Les points n'expirent pas, et une recharge dure longtemps.
 
-**L'essai exige-t-il une carte bancaire ?** Non. Demandez-le en page d'accueil après l'inscription : 24 heures avec toutes les fonctions, une fois par compte.
+**L'essai exige-t-il une carte bancaire ?** Non. Demandez-le en page d'accueil après l'inscription : 4 heures avec toutes les fonctions, une fois par compte.
 
 **J'ai payé et ça coupe toujours. Que faire ?** Changez d'abord de région, puis de méthode de connexion (les trois protocoles sont utilisables sur le même compte) ; si ça ne fonctionne toujours pas, lisez le guide de dépannage ou contactez l'assistance. Payer, c'est aussi avoir quelqu'un de responsable.
 
@@ -60,4 +60,4 @@ Quand un ami que vous invitez s'inscrit et paie pour la première fois, votre va
 Version de cet article sur le site : https://www.leotun.com/fr/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-11) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-11) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-11) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-11) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre durable

@@ -39,15 +39,15 @@ Câblez le téléviseur et l'ordinateur de bureau dès que possible. Le Wi-Fi da
 
 ## Comment savoir avant d'acheter
 
-Inscrivez-vous et prenez l'essai gratuit de 24 heures, sans carte bancaire. Connectez-vous à l'heure où vous l'utilisez le plus, le soir par exemple, et regardez une vidéo YouTube en HD. Ce que vous voyez sur un téléphone ou un portable est proche de ce que vous donnera le routeur. Décidez pour le routeur ensuite.
+Inscrivez-vous et prenez l'essai gratuit de 4 heures, sans carte bancaire. Connectez-vous à l'heure où vous l'utilisez le plus, le soir par exemple, et regardez une vidéo YouTube en HD. Ce que vous voyez sur un téléphone ou un portable est proche de ce que vous donnera le routeur. Décidez pour le routeur ensuite.
 
 ## FAQ
 
-**Pourquoi ne pas me donner simplement un nombre de mégabits ?** Parce que ce nombre change pour chaque personne et à chaque heure. Nous garantissons une lecture fluide de YouTube, même à l'heure de pointe du soir, à condition que votre accès Internet soit bon : China Unicom dans le nord ou China Telecom dans le sud. Le haut débit partagé des résidences (accès mutualisé fourni par l'immeuble, très répandu en Chine) fait exception. Prendre l'essai gratuit de 24 heures et tester vous-même reste le test le plus fiable.
+**Pourquoi ne pas me donner simplement un nombre de mégabits ?** Parce que ce nombre change pour chaque personne et à chaque heure. Nous garantissons une lecture fluide de YouTube, même à l'heure de pointe du soir, à condition que votre accès Internet soit bon : China Unicom dans le nord ou China Telecom dans le sud. Le haut débit partagé des résidences (accès mutualisé fourni par l'immeuble, très répandu en Chine) fait exception. Prendre l'essai gratuit de 4 heures et tester vous-même reste le test le plus fiable.
 
 **Le site de test de débit affiche un chiffre bas, mais la vidéo se lit bien ?** C'est normal. Les serveurs de test ont eux-mêmes leurs moments chargés et calmes, et deux tests à une minute d'écart peuvent varier du simple au double. Jugez sur ce que vous voulez réellement faire.
 
 **Un routeur plus cher ira-t-il plus vite ?** Seulement si le routeur est le goulot d'étranglement, par exemple un modèle mini sur une ligne rapide. Quand le goulot est le tronçon transfrontalier, un nouveau routeur n'y change rien, et une autre région, si.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-11) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-11) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-11) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-11) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre durable

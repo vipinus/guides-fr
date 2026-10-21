@@ -22,7 +22,7 @@ Famille ou amis qui logent chez vous quelques jours, une tablette et un portable
 
 ## Combien coûte une montée temporaire : le calcul
 
-Les trois formules sont tarifées dans un rapport 1 : 2 : 4 (Personnel 4 $, Famille 8 $, Entreprise 16 $ par mois) ; lors d'un changement, le temps restant est donc converti selon ce rapport et personne n'y perd. Exemple : avec 30 jours restants en Famille, passer temporairement en Entreprise donne 15 jours ; après 3 jours d'utilisation, il en reste 12, et revenir en Famille donne 24 jours. Par rapport à rester en Famille tout du long (30 − 3 = 27 jours), c'est 3 jours de moins : autrement dit, ces 3 jours ont été facturés au prix de la formule Entreprise, et vous n'avez payé en plus que la différence pour ces 3 jours.
+Les trois formules sont tarifées dans un rapport 1 : 2 : 4 (Personnel 5 $, Famille 10 $, Entreprise 20 $ par mois) ; lors d'un changement, le temps restant est donc converti selon ce rapport et personne n'y perd. Exemple : avec 30 jours restants en Famille, passer temporairement en Entreprise donne 15 jours ; après 3 jours d'utilisation, il en reste 12, et revenir en Famille donne 24 jours. Par rapport à rester en Famille tout du long (30 − 3 = 27 jours), c'est 3 jours de moins : autrement dit, ces 3 jours ont été facturés au prix de la formule Entreprise, et vous n'avez payé en plus que la différence pour ces 3 jours.
 
 Deux restrictions : si un paiement a été lancé dans les 30 dernières minutes sans être finalisé, le changement ne passera pas ; finalisez ou abandonnez ce paiement et attendez une demi-heure avant de changer. En redescendant, si le nombre d'appareils en ligne dépasse encore la limite de la formule inférieure, le site vous demandera d'abord de déconnecter les appareils en trop.
 
@@ -56,4 +56,4 @@ Si les appareils se multiplient à la maison et que chaque membre de la famille 
 Version de cet article sur le site : https://www.leotun.com/fr/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-09) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-09) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; chaque ami invité qui paie vous rapporte à tous les deux 20 jours en formule Personnel, une offre sans date de fin
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-09) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-09) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; chaque ami invité qui paie vous rapporte à tous les deux 20 jours en formule Personnel, une offre sans date de fin

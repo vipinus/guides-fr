@@ -20,14 +20,14 @@ Nous sommes un service **optimisé spécifiquement pour le réseau de Chine cont
 - Leurs points forts : pas chers, beaucoup de nœuds, utilisables dès qu'on colle un lien d'abonnement, et ceux qui aiment bricoler leurs clients apprécient la liberté.
 - Leurs points faibles : la plupart sont des particuliers ou de petites équipes qui louent des machines à l'étranger et revendent du trafic, sans point d'arrivée en Chine qui leur appartienne, et la qualité des sorties dépend des lignes louées ; les disparitions avec la caisse, les changements de nom et les fermetures sont fréquents, et payer un an ne garantit pas de pouvoir l'utiliser un an ; les clients sont presque entièrement laissés aux utilisateurs, et personne n'est responsable quand quelque chose ne va pas.
 - Ce que nous faisons : les machines nous appartiennent, et les sorties en Chine sont nos propres machines, enregistrées sous nom réel chez des hébergeurs cloud de Chine continentale ; un même compte offre six méthodes de connexion, et la solution routeur pour tout le foyer comme le groupe d'assistance 24 h/24 n'existent pas chez les fournisseurs de lignes proxy ; nous fonctionnons de 2006 à aujourd'hui, et les comptes, les durées de validité et les prix n'ont pas changé avec le changement de nom.
-- Nos prix : formule Personnel 4 $ par mois, Famille 8 $, Entreprise 16 $, ce qui couvre nos propres machines, six méthodes de connexion et le groupe d'assistance 24 h/24 ; vous ne choisissez que la région, et derrière chaque région le système prend la machine la moins chargée : inutile de tester les débits et de trier les nœuds vous-même.
+- Nos prix : formule Personnel 5 $ par mois, Famille 10 $, Entreprise 20 $, ce qui couvre nos propres machines, six méthodes de connexion et le groupe d'assistance 24 h/24 ; vous ne choisissez que la région, et derrière chaque région le système prend la machine la moins chargée : inutile de tester les débits et de trier les nœuds vous-même.
 
 ## Face aux logiciels gratuits
 
 - Leurs points forts : ça ne coûte rien, et ça suffit pour une recherche de temps en temps.
 - Leurs points faibles : la bande passante de sortie en Chine continentale se paie à l'usage, donc un service gratuit ne tient qu'en entassant les utilisateurs, en bridant le débit ou en vendant des données ; les extensions de navigateur ne font passer que les requêtes web, pas la vidéo, les applis ni le DNS du système ; enfin, un installateur d'origine inconnue est un risque en soi, voir « Comment repérer un logiciel VPN à risque ».
-- Ce que nous faisons : l'essai gratuit de 24 heures sans carte bancaire sert à juger sur pièce ; le paiement à la journée (points) s'adresse aux utilisateurs occasionnels ; quand un ami que vous invitez paie, vous recevez chacun 20 jours (base formule Personnel), une source durable de temps gratuit.
-- Notre organisation : le temps gratuit vient de l'essai de 24 heures et des récompenses de parrainage ; pour un usage durable, on paie au mois, à l'année ou à la journée.
+- Ce que nous faisons : l'essai gratuit de 4 heures sans carte bancaire sert à juger sur pièce ; le paiement à la journée (points) s'adresse aux utilisateurs occasionnels ; quand un ami que vous invitez paie, vous recevez chacun 20 jours (base formule Personnel), une source durable de temps gratuit.
+- Notre organisation : le temps gratuit vient de l'essai de 4 heures et des récompenses de parrainage ; pour un usage durable, on paie au mois, à l'année ou à la journée.
 
 ## Six méthodes de connexion, un seul compte
 
@@ -55,9 +55,9 @@ Chaque réseau a sa méthode la plus adaptée, c'est pourquoi vous avez les six 
 
 **Pourquoi ne pas proposer des centaines de nœuds comme les fournisseurs de lignes proxy ?** Plus de nœuds ne veut pas dire plus de stabilité. Derrière chacune de nos régions se trouvent plusieurs machines, et à la connexion le système choisit la moins chargée : pas besoin de tester les débits ni de trier les nœuds vous-même. Quand une adresse est bloquée, elle est remplacée automatiquement, sans rien changer dans votre client.
 
-**Le prix pourrait-il être plus bas ?** La formule Personnel coûte 4 $ par mois, et plus la durée est longue, plus la remise est forte (−5 % → −10 % → −20 %) ; à la journée avec des points, cela revient à environ 0,32 $ par jour ; quand un ami que vous invitez paie, vous recevez chacun 20 jours de plus (base formule Personnel), sans limite de nombre. L'inscription donne aussi droit à un essai gratuit de 24 heures.
+**Le prix pourrait-il être plus bas ?** La formule Personnel coûte 5 $ par mois, et plus la durée est longue, plus la remise est forte (−5 % → −10 % → −20 %) ; à la journée avec des points, cela revient à environ 0,32 $ par jour ; quand un ami que vous invitez paie, vous recevez chacun 20 jours de plus (base formule Personnel), sans limite de nombre. L'inscription donne aussi droit à un essai gratuit de 4 heures.
 
-**Comment vérifier ce que vous dites ?** Prenez l'essai de 24 heures, connectez-vous à la région Chine à l'heure de pointe du soir et regardez un épisode sur Tencent Video, connectez-vous à une région hors de Chine et ouvrez YouTube, puis vérifiez la localisation enregistrée de l'IP et une page de test IPv6. La liste de contrôle se trouve dans « Bien choisir un VPN avec IP chinoise ».
+**Comment vérifier ce que vous dites ?** Prenez l'essai de 4 heures, connectez-vous à la région Chine à l'heure de pointe du soir et regardez un épisode sur Tencent Video, connectez-vous à une région hors de Chine et ouvrez YouTube, puis vérifiez la localisation enregistrée de l'IP et une page de test IPv6. La liste de contrôle se trouve dans « Bien choisir un VPN avec IP chinoise ».
 
 
 ## Pour aller plus loin
@@ -70,4 +70,4 @@ Chaque réseau a sa méthode la plus adaptée, c'est pourquoi vous avez les six 
 Version de cet article sur le site : https://www.leotun.com/fr/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-04) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-04) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; chaque ami invité qui paie vous rapporte à tous les deux 20 jours en formule Personnel, une offre sans date de fin
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-04) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-04) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; chaque ami invité qui paie vous rapporte à tous les deux 20 jours en formule Personnel, une offre sans date de fin

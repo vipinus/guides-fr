@@ -26,7 +26,7 @@ Le problème n'est pas la gratuité mais la structure des coûts. La bande passa
 
 Les extensions de navigateur gratuites « vers la Chine » ont un angle mort de plus : elles ne font passer que les requêtes web du navigateur, alors que le lecteur vidéo, les applis et le DNS du système n'y passent pas ; d'où le symptôme si fréquent « la page s'ouvre mais la vidéo ne se lit pas ».
 
-Pour une recherche de temps en temps, le gratuit suffit. Pour suivre des séries, écouter de la musique et utiliser la banque en ligne, le temps que fait gagner une ligne payante stable vaut bien plus que l'abonnement. Demandez d'abord l'essai de 24 heures, testez une fois à l'heure de pointe du soir, puis décidez.
+Pour une recherche de temps en temps, le gratuit suffit. Pour suivre des séries, écouter de la musique et utiliser la banque en ligne, le temps que fait gagner une ligne payante stable vaut bien plus que l'abonnement. Demandez d'abord l'essai de 4 heures, testez une fois à l'heure de pointe du soir, puis décidez.
 
 ## Comment s'équiper : étudiants à l'étranger, voyageurs, familles
 
@@ -53,4 +53,4 @@ Pour une recherche de temps en temps, le gratuit suffit. Pour suivre des séries
 **Puis-je utiliser Clash ?** Oui. LeoTun fournit un abonnement sing-box, un abonnement Clash et un lien de partage hysteria2. Avec Clash Meta, Clash Verge, FlClash, Stash et consorts, cliquez sur le bouton « Abonnement Clash » et collez l'URL dans la liste d'abonnements du client ; aucun convertisseur d'abonnement n'est nécessaire, et n'utilisez pas le lien de partage. Le Clash d'origine et Clash for Windows ne fonctionnent pas, car leur cœur ne gère pas hysteria2. Par défaut, cet abonnement fait passer par le nœud tout ce qui n'est pas votre réseau local : rien à modifier pour les vidéos chinoises ; si vous ajoutez vos propres règles, ne mettez pas les domaines chinois en « direct ».
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente

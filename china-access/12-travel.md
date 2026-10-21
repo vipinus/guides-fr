@@ -29,7 +29,7 @@ Les codes de vérification par SMS qui n'arrivent jamais n'ont rien à voir avec
 
 ## FAQ
 
-**Le voyage ne dure que quelques jours. Faut-il acheter un mois ?** Non. Demandez l'essai gratuit de 24 heures, ou rechargez des points et payez à la journée : la formule Personnel coûte 1 point par jour, soit environ 0,32 dollar US par jour, ce qui convient bien à quelques jours.
+**Le voyage ne dure que quelques jours. Faut-il acheter un mois ?** Non. Demandez l'essai gratuit de 4 heures, ou rechargez des points et payez à la journée : la formule Personnel coûte 1 point par jour, soit environ 0,32 dollar US par jour, ce qui convient bien à quelques jours.
 
 **Mon téléphone et mon portable peuvent-ils se connecter en même temps ?** Oui. Selon la formule, un compte permet 2 / 4 / 8 appareils en ligne simultanément (Personnel / Famille / Entreprise), et la formule Personnel correspond exactement à un téléphone plus un portable.
 
@@ -47,4 +47,4 @@ Les codes de vérification par SMS qui n'arrivent jamais n'ont rien à voir avec
 Version de cet article sur le site : https://www.leotun.com/fr/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-12) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-12) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 24 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-12) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-12) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; invitez un ami qui paie et vous recevez chacun 20 jours en formule Personnel, une offre permanente
