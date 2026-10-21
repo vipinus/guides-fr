@@ -26,7 +26,7 @@ Nous sommes un service **optimisé spécifiquement pour le réseau de Chine cont
 
 - Leurs points forts : ça ne coûte rien, et ça suffit pour une recherche de temps en temps.
 - Leurs points faibles : la bande passante de sortie en Chine continentale se paie à l'usage, donc un service gratuit ne tient qu'en entassant les utilisateurs, en bridant le débit ou en vendant des données ; les extensions de navigateur ne font passer que les requêtes web, pas la vidéo, les applis ni le DNS du système ; enfin, un installateur d'origine inconnue est un risque en soi, voir « Comment repérer un logiciel VPN à risque ».
-- Ce que nous faisons : l'essai gratuit de 4 heures sans carte bancaire sert à juger sur pièce ; le paiement à la journée (points) s'adresse aux utilisateurs occasionnels ; quand un ami que vous invitez paie, vous recevez chacun 20 jours (base formule Personnel), une source durable de temps gratuit.
+- Ce que nous faisons : l'essai gratuit de 4 heures sans carte bancaire sert à juger sur pièce ; le paiement à la journée (points) s'adresse aux utilisateurs occasionnels ; quand un ami que vous invitez paie, vous recevez chacun 15 points (environ 15 jours en formule Personnel), une source durable de temps gratuit.
 - Notre organisation : le temps gratuit vient de l'essai de 4 heures et des récompenses de parrainage ; pour un usage durable, on paie au mois, à l'année ou à la journée.
 
 ## Six méthodes de connexion, un seul compte
@@ -55,7 +55,7 @@ Chaque réseau a sa méthode la plus adaptée, c'est pourquoi vous avez les six 
 
 **Pourquoi ne pas proposer des centaines de nœuds comme les fournisseurs de lignes proxy ?** Plus de nœuds ne veut pas dire plus de stabilité. Derrière chacune de nos régions se trouvent plusieurs machines, et à la connexion le système choisit la moins chargée : pas besoin de tester les débits ni de trier les nœuds vous-même. Quand une adresse est bloquée, elle est remplacée automatiquement, sans rien changer dans votre client.
 
-**Le prix pourrait-il être plus bas ?** La formule Personnel coûte 5 $ par mois, et plus la durée est longue, plus la remise est forte (−5 % → −10 % → −20 %) ; à la journée avec des points, cela revient à environ 0,32 $ par jour ; quand un ami que vous invitez paie, vous recevez chacun 20 jours de plus (base formule Personnel), sans limite de nombre. L'inscription donne aussi droit à un essai gratuit de 4 heures.
+**Le prix pourrait-il être plus bas ?** La formule Personnel coûte 5 $ par mois, et plus la durée est longue, plus la remise est forte (−5 % → −10 % → −20 %) ; à la journée avec des points, cela revient à environ 0,32 $ par jour ; quand un ami que vous invitez paie, vous recevez chacun 15 points (environ 15 jours en formule Personnel), sans limite de nombre. L'inscription donne aussi droit à un essai gratuit de 4 heures.
 
 **Comment vérifier ce que vous dites ?** Prenez l'essai de 4 heures, connectez-vous à la région Chine à l'heure de pointe du soir et regardez un épisode sur Tencent Video, connectez-vous à une région hors de Chine et ouvrez YouTube, puis vérifiez la localisation enregistrée de l'IP et une page de test IPv6. La liste de contrôle se trouve dans « Bien choisir un VPN avec IP chinoise ».
 
@@ -70,4 +70,4 @@ Chaque réseau a sa méthode la plus adaptée, c'est pourquoi vous avez les six 
 Version de cet article sur le site : https://www.leotun.com/fr/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-04) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-04) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; chaque ami invité qui paie vous rapporte à tous les deux 20 jours en formule Personnel, une offre sans date de fin
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-04) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-04) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; chaque ami invité qui paie vous rapporte à tous les deux 15 points (environ 15 jours en formule Personnel), une offre sans date de fin

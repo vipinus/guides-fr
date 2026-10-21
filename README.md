@@ -9,7 +9,7 @@ Autres langues : [English](https://github.com/vipinus/guides-en) · [简体中�
 | Comment l'obtenir | Ce que vous obtenez |
 |---|---|
 | Demandez l'essai gratuit après l'inscription | 4 heures avec toutes les fonctions, sans carte bancaire |
-| Invitez un ami qui s'inscrit et paie pour la première fois | +20 jours chacun sur votre date d'expiration et celle de votre ami (base formule Personnel ; +10 jours en Famille, +5 jours en Entreprise, chacun selon sa propre formule), une fois par ami, sans limite du nombre d'amis |
+| Invitez un ami qui s'inscrit et paie pour la première fois | 15 points chacun pour vous et votre ami (environ 15 jours en formule Personnel, qui consomme 1 point par jour), crédités directement sur votre solde de points, une fois par ami, sans limite du nombre d'amis |
 
 Site : <https://www.leotun.com/fr?utm_source=github&utm_content=readme> · Nous contacter : <https://www.leotun.com/fr/contact?utm_source=github&utm_content=readme>
 

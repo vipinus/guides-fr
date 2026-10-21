@@ -17,7 +17,7 @@ Un compte LeoTun existe en trois formules : Personnel, Famille et Entreprise. El
 
 ## Nouveau compte et choix de la formule à l'achat
 
-- Un compte nouvellement créé est sur la formule Personnel par défaut, et l'essai gratuit comme la récompense de parrainage sont calculés aux montants de la formule Personnel.
+- Un compte nouvellement créé est sur la formule Personnel par défaut, et l'essai gratuit est accordé selon la durée de la formule Personnel.
 - La fenêtre de renouvellement contient un sélecteur « Type de compte » réglé par défaut sur votre formule actuelle ; quelle que soit la carte de prix sur laquelle vous cliquez en page d'accueil, la fenêtre présélectionne cette formule, et vous pouvez encore la modifier ensuite.
 - Si vous choisissez une autre formule, la fenêtre indique qu'une fois le paiement effectué le compte passera automatiquement à cette formule et que la validité non écoulée sera convertie à valeur égale. Le prix, la remise et le nombre de points sont calculés en direct pour la formule choisie : ce que vous voyez est ce qui sera réellement débité.
 - Vous pouvez aussi changer de formule sans rien acheter : cliquez sur votre nom d'utilisateur pour changer de formule.
@@ -77,17 +77,17 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 - Les points permettent aussi de renouveler au mois (compté 30 jours) ou à l'année (compté 365 jours), mais sans aucune remise.
 - Pour qui : ceux qui ne s'en servent qu'une dizaine de jours par mois, ou qui n'en ont besoin que quelques jours avant un séjour en Chine. Si vous l'utilisez tous les jours, l'abonnement mensuel est plus avantageux ; en formule Personnel, au-delà de 15 jours par mois, prenez l'abonnement mensuel.
 
-## Essai gratuit et récompense de parrainage : même valeur sur chaque formule
+## Essai gratuit et récompense de parrainage selon la formule
 
 | | Personnel | Famille | Entreprise |
 |---|---|---|---|
 | Essai gratuit | 4 heures | 2 heures | 1 heure |
-| Pour le premier paiement de chaque ami invité (vous et votre ami recevez chacun) | +20 jours | +10 jours | +5 jours |
+| Pour le premier paiement de chaque ami invité (vous et votre ami recevez chacun) | 15 points | 15 points | 15 points |
 | Service inclus avec l'achat d'un routeur (modèles 24 mois) | 24 mois | 12 mois | 6 mois |
 
 - Essai : à demander en page d'accueil après l'inscription, sans carte bancaire ; un code d'essai est envoyé par e-mail et vous saisissez ce code à 6 chiffres pour l'activer ; une seule fois par compte. Un nouveau compte étant en formule Personnel, vous obtenez normalement 4 heures.
-- Parrainage : quand un ami s'inscrit via votre lien de parrainage et effectue son premier paiement, votre validité et la sienne sont prolongées directement, sans limite de nombre. Les jours de chacun sont calculés selon la formule sur laquelle il se trouve à ce moment-là.
-- Tous ces montants sont convertis en proportion inverse du coefficient de prix : la valeur obtenue est la même, quelle que soit la formule.
+- Parrainage : quand un ami s'inscrit via votre lien de parrainage et effectue son premier paiement, vous recevez chacun 15 points, crédités directement sur votre solde, quelle que soit la formule et sans limite de nombre. La formule Personnel consomme 1 point par jour : 15 points valent donc environ 15 jours, utilisables pour prolonger à la journée.
+- L'essai gratuit et le service inclus avec l'achat d'un routeur sont convertis en proportion inverse du coefficient de prix : la valeur est la même quelle que soit la formule ; la récompense de parrainage, versée en points, est identique sur les trois formules.
 
 ## Après l'expiration
 
@@ -117,4 +117,4 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 - [FAQ et contact avec l'assistance](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-08)
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; chaque ami invité qui paie vous rapporte à tous les deux 20 jours en formule Personnel, une offre sans date de fin
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; chaque ami invité qui paie vous rapporte à tous les deux 15 points (environ 15 jours en formule Personnel), une offre sans date de fin
