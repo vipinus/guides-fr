@@ -29,7 +29,7 @@ Les codes de vérification par SMS qui n'arrivent jamais n'ont rien à voir avec
 
 ## FAQ
 
-**Le voyage ne dure que quelques jours. Faut-il acheter un mois ?** Non. Demandez l'essai gratuit de 4 heures, ou rechargez des points et payez à la journée : la formule Personnel coûte 1 point par jour, soit environ 0,4 dollar US par jour, ce qui convient bien à quelques jours.
+**Le voyage ne dure que quelques jours. Faut-il acheter un mois ?** Non. Demandez l'essai gratuit de 4 heures, ou rechargez des points et payez à la journée : la formule Personnel coûte 1 point par jour, soit environ 0,36 dollar US par jour, ce qui convient bien à quelques jours.
 
 **Mon téléphone et mon portable peuvent-ils se connecter en même temps ?** Oui. Selon la formule, un compte permet 2 / 4 / 8 appareils en ligne simultanément (Personnel / Famille / Entreprise), et la formule Personnel correspond exactement à un téléphone plus un portable.
 

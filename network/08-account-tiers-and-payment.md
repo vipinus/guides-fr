@@ -72,10 +72,10 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 
 ## Points et paiement à la journée
 
-- Recharger des points : 25 points pour 10 $, et vous pouvez en prendre de 25 à 150 à la fois. Les points n'expirent jamais.
-- Consommation quotidienne : Personnel 1 point par jour, Famille 2 points, Entreprise 4 points. Une journée en formule Personnel revient à environ 0,4 $.
+- Recharger des points : 28 points pour 10 $, et vous pouvez en prendre de 28 à 168 à la fois. Les points n'expirent jamais.
+- Consommation quotidienne : Personnel 1 point par jour, Famille 2 points, Entreprise 4 points. Une journée en formule Personnel revient à environ 0,36 $.
 - Les points permettent aussi de renouveler au mois (compté 30 jours) ou à l'année (compté 365 jours), mais sans aucune remise.
-- Pour qui : ceux qui ne s'en servent qu'une dizaine de jours par mois, ou qui n'en ont besoin que quelques jours avant un séjour en Chine. Si vous l'utilisez tous les jours, l'abonnement mensuel est plus avantageux ; en formule Personnel, au-delà de 12 jours par mois, prenez l'abonnement mensuel.
+- Pour qui : ceux qui ne s'en servent qu'une dizaine de jours par mois, ou qui n'en ont besoin que quelques jours avant un séjour en Chine. Si vous l'utilisez tous les jours, l'abonnement mensuel est plus avantageux ; en formule Personnel, au-delà de 14 jours par mois, prenez l'abonnement mensuel.
 
 ## Essai gratuit et récompense de parrainage selon la formule
 
@@ -102,7 +102,7 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 
 **Une personne seule doit-elle prendre la formule Famille ?** Non. Les trois formules ont les mêmes fonctions et le routeur est utilisable aussi ; les 2 appareils simultanés de la formule Personnel suffisent pour un téléphone et un ordinateur. N'envisagez Famille que si vous avez un routeur à la maison et emportez aussi deux appareils sur vous.
 
-**Pourquoi Alipay m'affiche-t-il un montant en yuans ?** Les prix sont fixés en dollars US, et Alipay les facture en yuans au taux fixe de 1 $ = 7 ¥ (par mois, Personnel 35 ¥, Famille 70 ¥, Entreprise 140 ¥ ; 25 points, 70 ¥) : le montant en yuans ne varie donc pas avec le change.
+**Pourquoi Alipay m'affiche-t-il un montant en yuans ?** Les prix sont fixés en dollars US, et Alipay les facture en yuans au taux fixe de 1 $ = 7 ¥ (par mois, Personnel 35 ¥, Famille 70 ¥, Entreprise 140 ¥ ; 28 points, 70 ¥) : le montant en yuans ne varie donc pas avec le change.
 
 **Peut-on combiner points et abonnement mensuel ?** Oui. Les points restent disponibles sans expirer ; au renouvellement, choisir « Points » comme moyen de paiement les déduit du solde, et choisir un autre moyen fait payer en argent comme d'habitude.
 
