@@ -55,7 +55,7 @@ Chaque réseau a sa méthode la plus adaptée, c'est pourquoi vous avez les six 
 
 **Pourquoi ne pas proposer des centaines de nœuds comme les fournisseurs de lignes proxy ?** Plus de nœuds ne veut pas dire plus de stabilité. Derrière chacune de nos régions se trouvent plusieurs machines, et à la connexion le système choisit la moins chargée : pas besoin de tester les débits ni de trier les nœuds vous-même. Quand une adresse est bloquée, elle est remplacée automatiquement, sans rien changer dans votre client.
 
-**Le prix pourrait-il être plus bas ?** La formule Personnel coûte 5 $ par mois, et plus la durée est longue, plus la remise est forte (−5 % → −10 % → −20 %) ; à la journée avec des points, cela revient à environ 0,32 $ par jour ; quand un ami que vous invitez paie, vous recevez chacun 15 points (environ 15 jours en formule Personnel), sans limite de nombre. L'inscription donne aussi droit à un essai gratuit de 4 heures.
+**Le prix pourrait-il être plus bas ?** La formule Personnel coûte 5 $ par mois, et plus la durée est longue, plus la remise est forte (−5 % → −10 % → −20 %) ; à la journée avec des points, cela revient à environ 0,4 $ par jour ; quand un ami que vous invitez paie, vous recevez chacun 15 points (environ 15 jours en formule Personnel), sans limite de nombre. L'inscription donne aussi droit à un essai gratuit de 4 heures.
 
 **Comment vérifier ce que vous dites ?** Prenez l'essai de 4 heures, connectez-vous à la région Chine à l'heure de pointe du soir et regardez un épisode sur Tencent Video, connectez-vous à une région hors de Chine et ouvrez YouTube, puis vérifiez la localisation enregistrée de l'IP et une page de test IPv6. La liste de contrôle se trouve dans « Bien choisir un VPN avec IP chinoise ».
 
