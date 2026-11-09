@@ -17,7 +17,7 @@ Un compte LeoTun existe en trois formules : Personnel, Famille et Entreprise. El
 
 ## Nouveau compte et choix de la formule à l'achat
 
-- Un compte nouvellement créé est sur la formule Personnel par défaut, et l'essai gratuit est accordé selon la durée de la formule Personnel.
+- Un compte nouvellement créé est sur la formule Personnel par défaut.
 - La fenêtre de renouvellement contient un sélecteur « Type de compte » réglé par défaut sur votre formule actuelle ; quelle que soit la carte de prix sur laquelle vous cliquez en page d'accueil, la fenêtre présélectionne cette formule, et vous pouvez encore la modifier ensuite.
 - Si vous choisissez une autre formule, la fenêtre indique qu'une fois le paiement effectué le compte passera automatiquement à cette formule et que la validité non écoulée sera convertie à valeur égale. Le prix, la remise et le nombre de points sont calculés en direct pour la formule choisie : ce que vous voyez est ce qui sera réellement débité.
 - Vous pouvez aussi changer de formule sans rien acheter : cliquez sur votre nom d'utilisateur pour changer de formule.
@@ -81,19 +81,19 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 
 | | Personnel | Famille | Entreprise |
 |---|---|---|---|
-| Essai gratuit | 4 heures | 2 heures | 1 heure |
+| Essai gratuit | 30 minutes | 30 minutes | 30 minutes |
 | Pour le premier paiement de chaque ami invité (vous et votre ami recevez chacun) | 15 points | 15 points | 15 points |
 | Service inclus avec l'achat d'un routeur (modèles 24 mois) | 24 mois | 12 mois | 6 mois |
 
-- Essai : à demander en page d'accueil après l'inscription, sans carte bancaire ; un code d'essai est envoyé par e-mail et vous saisissez ce code à 6 chiffres pour l'activer ; une seule fois par compte. Un nouveau compte étant en formule Personnel, vous obtenez normalement 4 heures.
+- Essai : à demander en page d'accueil après l'inscription, sans carte bancaire ; un code d'essai est envoyé par e-mail et vous saisissez ce code à 6 chiffres pour l'activer ; une seule fois par compte ; 30 minutes quelle que soit la formule.
 - Parrainage : quand un ami s'inscrit via votre lien de parrainage et effectue son premier paiement, vous recevez chacun 15 points, crédités directement sur votre solde, quelle que soit la formule et sans limite de nombre. La formule Personnel consomme 1 point par jour : 15 points valent donc environ 15 jours, utilisables pour prolonger à la journée.
-- L'essai gratuit et le service inclus avec l'achat d'un routeur sont convertis en proportion inverse du coefficient de prix : la valeur est la même quelle que soit la formule ; la récompense de parrainage, versée en points, est identique sur les trois formules.
+- Le service inclus avec l'achat d'un routeur est converti en proportion inverse du coefficient de prix : la valeur est la même quelle que soit la formule ; l'essai et la récompense de parrainage (en points) sont identiques sur les trois formules.
 
 ## Après l'expiration
 
 - Dans les 24 heures précédant l'expiration, vous recevez un e-mail de rappel indiquant que le service va expirer.
 - Après l'expiration, aucune méthode de connexion ne fonctionne ; les appareils de la méthode Privé passent hors ligne en quelques minutes, et le QR code Hiddify ne peut être régénéré qu'après renouvellement.
-- Un ou deux jours après l'expiration, vous recevez un e-mail indiquant que le service a expiré ; si vous y avez droit, il contient un bouton à utiliser sans connexion qui offre 4 / 2 / 1 heures selon votre formule ; le lien est valable 7 jours et ne fonctionne qu'une fois.
+- Un ou deux jours après l'expiration, vous recevez un e-mail indiquant que le service a expiré ; si vous y avez droit, il contient un bouton à utiliser sans connexion qui offre 30 minutes ; le lien est valable 7 jours et ne fonctionne qu'une fois.
 - Le service reprend dès le renouvellement ; sur les appareils de la méthode Privé, il suffit de cliquer une nouvelle fois sur « Log in » (connexion), et le réglage de sortie est conservé.
 
 ## FAQ
@@ -117,4 +117,4 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 - [FAQ et contact avec l'assistance](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-08)
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 4 heures ; chaque ami invité qui paie vous rapporte à tous les deux 15 points (environ 15 jours en formule Personnel), une offre sans date de fin
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; chaque ami invité qui paie vous rapporte à tous les deux 15 points (environ 15 jours en formule Personnel), une offre sans date de fin
