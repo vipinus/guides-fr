@@ -26,7 +26,7 @@ Dans les deux cas, le firmware met à jour ses composants tout seul, sans reflas
 
 | Modèle | Type | Prix | Inclus | Ce que c'est | Idéal pour |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Portable | 300 $ | 2 ans de formule Personnel | Wi‑Fi 6 bibande avec un port 2,5G, à peine plus grand que la paume | Le routeur principal d'un petit foyer (téléviseur, box de streaming, plusieurs téléphones et ordinateurs), et assez petit pour un sac à dos |
+| **GL-MT3000** | Portable | 250 $ | 2 ans de formule Personnel | Wi‑Fi 6 bibande avec un port 2,5G, à peine plus grand que la paume | Le routeur principal d'un petit foyer (téléviseur, box de streaming, plusieurs téléphones et ordinateurs), et assez petit pour un sac à dos |
 | GL-AXT1800 | Portable | 300 $ | 2 ans de formule Personnel | Wi‑Fi 6 bibande, un port WAN gigabit et deux ports LAN gigabit, à peu près de la taille du GL-MT3000 | En déplacement, quand il faut brancher deux appareils en filaire en plus du Wi‑Fi, par exemple un portable et un boîtier TV |
 | GL-MT3600BE | Portable | 350 $ | 2 ans de formule Personnel | Wi‑Fi 7 bibande avec deux ports 2,5G, à peu près de la taille du GL-MT3000 | Téléphones et ordinateurs déjà compatibles Wi‑Fi 7, pour un sans-fil plus rapide dans un appareil qu'on peut encore emporter |
 | GL-MT6000 | De bureau | 400 $ | 2 ans de formule Personnel | Deux ports 2,5G plus quatre ports gigabit, antennes externes, la plus grande puissance de calcul | Grands logements, beaucoup d'appareils (une douzaine ou plus), accès Internet au-delà du gigabit, 4K et jeux sur console, ou petit bureau. Reste à poste fixe comme unique routeur |
@@ -46,7 +46,7 @@ Les mois inclus s'entendent en formule Personnel ; Famille en reçoit la moitié
 
 - **Un appareil, deux rôles.** Assez puissant pour être le routeur principal d'un petit foyer, assez petit pour voyager. C'est le seul des quatre à faire les deux.
 - **Il ne vieillira pas vite.** Le Wi‑Fi 6 et le port 2,5G laissent de la marge par rapport à la plupart des accès Internet domestiques.
-- **Son prix est le plus bas.** 300 $ avec 2 ans de service en formule Personnel, comme le GL-AXT1800, mais avec un port 2,5G.
+- **Son prix est le plus bas.** 250 $ avec 2 ans de service en formule Personnel : le moins cher des quatre, 50 $ de moins que le GL-AXT1800, avec pourtant un port 2,5G.
 - **C'est celui que nous connaissons le mieux.** Notre propre appareil de test est ce modèle, les nouveaux firmwares y sont vérifiés en premier, et le [tutoriel vidéo de flashage](02-flash-firmware-yourself.md) l'utilise. En cas de problème, nous avons le même appareil sur le bureau pour comparer.
 
 Quand ne pas le choisir : pour un modèle portable avec deux ports filaires, le GL-AXT1800 ; pour des appareils compatibles Wi‑Fi 7, le GL-MT3600BE ; pour un grand logement, beaucoup d'appareils ou un accès au-delà du gigabit, prenez directement le GL-MT6000.
