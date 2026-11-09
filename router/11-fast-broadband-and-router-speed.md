@@ -21,11 +21,12 @@ Chaque opérateur sort de Chine par un chemin différent, et choisir la bonne r�
 
 **3. Le routeur lui-même**
 Le trafic doit être chiffré avant d'entrer dans le tunnel, et c'est le processeur du routeur qui s'en charge. Les modèles diffèrent beaucoup :
-- GL-MT300N-V2 (mini) : ports 100 Mbit/s. Suffisant pour du 1080p sur un téléphone ou un portable, pas à la hauteur d'une ligne rapide
 - GL-MT3000 (portable) : tient la charge d'un petit foyer. Le premier routeur pour la plupart des gens
+- GL-AXT1800 (portable) : ports gigabit. Pour brancher deux appareils en filaire en voyage
+- GL-MT3600BE (portable) : Wi‑Fi 7 et deux ports 2,5G. Le sans-fil le plus rapide qu'on puisse emporter
 - GL-MT6000 (de bureau) : port 2,5G. Pour beaucoup d'appareils, la 4K et les consoles de jeu
 
-Avec une ligne rapide et un foyer chargé, choisissez le MT3000 ou le MT6000, pas le mini.
+Avec une ligne rapide et un foyer chargé, choisissez le MT3000 ou le MT6000.
 
 **4. Les derniers mètres à la maison**
 Câblez le téléviseur et l'ordinateur de bureau dès que possible. Le Wi-Fi dans un immeuble dense subit de fortes interférences, et bien des « la ligne est lente » se révèlent venir de l'intérieur du logement.
