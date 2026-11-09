@@ -31,7 +31,7 @@ Dans les deux cas, le firmware met à jour ses composants tout seul, sans reflas
 | GL-MT3600BE | Portable | 350 $ | 2 ans de formule Personnel | Wi‑Fi 7 bibande avec deux ports 2,5G, à peu près de la taille du GL-MT3000 | Téléphones et ordinateurs déjà compatibles Wi‑Fi 7, pour un sans-fil plus rapide dans un appareil qu'on peut encore emporter |
 | GL-MT6000 | De bureau | 400 $ | 2 ans de formule Personnel | Deux ports 2,5G plus quatre ports gigabit, antennes externes, la plus grande puissance de calcul | Grands logements, beaucoup d'appareils (une douzaine ou plus), accès Internet au-delà du gigabit, 4K et jeux sur console, ou petit bureau. Reste à poste fixe comme unique routeur |
 
-Les mois inclus s'entendent en formule Personnel ; Famille en reçoit la moitié et Entreprise le quart, pour la même valeur. Livraison gratuite dans le monde entier, en général sous 3 à 14 jours, retour possible sous 30 jours.
+Les mois inclus s'entendent en formule Personnel ; Famille en reçoit la moitié et Entreprise le quart, pour la même valeur. Livraison gratuite dans le monde entier, en général sous 3 à 14 jours. Garantie six mois ; les routeurs ne sont pas remboursables.
 
 ### Choix rapide selon la situation
 
