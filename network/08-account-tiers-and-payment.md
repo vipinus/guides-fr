@@ -83,7 +83,7 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 |---|---|---|---|
 | Essai gratuit | 30 minutes | 30 minutes | 30 minutes |
 | Pour le premier paiement de chaque ami invité (vous et votre ami recevez chacun) | 15 points | 15 points | 15 points |
-| Service inclus avec l'achat d'un routeur (modèles 24 mois) | 24 mois | 12 mois | 6 mois |
+| Service inclus avec l'achat d'un routeur (modèles 2 ans) | 2 ans | 12 mois | 6 mois |
 
 - Essai : à demander en page d'accueil après l'inscription, sans carte bancaire ; un code d'essai est envoyé par e-mail et vous saisissez ce code à 6 chiffres pour l'activer ; une seule fois par compte ; 30 minutes quelle que soit la formule.
 - Parrainage : quand un ami s'inscrit via votre lien de parrainage et effectue son premier paiement, vous recevez chacun 15 points, crédités directement sur votre solde, quelle que soit la formule et sans limite de nombre. La formule Personnel consomme 1 point par jour : 15 points valent donc environ 15 jours, utilisables pour prolonger à la journée.

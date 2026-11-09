@@ -27,9 +27,9 @@ Dans les deux cas, le firmware met à jour ses composants tout seul, sans reflas
 | Modèle | Type | Prix | Inclus | Ce que c'est | Idéal pour |
 |---|---|---|---|---|---|
 | GL-MT300N-V2 | Mini | 200 $ | 12 mois de service | Tient dans la main, alimenté en USB (une batterie externe suffit) ; Wi‑Fi 2,4 GHz uniquement, ports 100 Mbit/s | Une personne en voyage : Ethernet ou Wi‑Fi de l'hôtel, un téléphone et un portable pour naviguer et regarder du 1080p. Pas fait pour être le routeur principal de la maison |
-| **GL-MT3000** | Portable | 300 $ | 24 mois de service | Wi‑Fi 6 bibande avec un port 2,5G, à peine plus grand que la paume | Le routeur principal d'un petit foyer (téléviseur, box de streaming, plusieurs téléphones et ordinateurs), et assez petit pour un sac à dos |
-| GL-MT6000 | De bureau | 400 $ | 24 mois de service | Deux ports 2,5G plus quatre ports gigabit, antennes externes, la plus grande puissance de calcul | Grands logements, beaucoup d'appareils (une douzaine ou plus), accès Internet au-delà du gigabit, 4K et jeux sur console, ou petit bureau. Reste à poste fixe comme unique routeur |
-| GL-XE3000 | Mobile | 400 $ | 24 mois de service | 5G/4G et batterie intégrées ; avec une carte SIM, c'est un réseau autonome, et il accepte aussi l'Ethernet | Lieux sans accès fixe : camping-cars, chantiers, salons professionnels, locations courtes ; ou secours pour la ligne de la maison |
+| **GL-MT3000** | Portable | 300 $ | 2 ans de formule Personnel | Wi‑Fi 6 bibande avec un port 2,5G, à peine plus grand que la paume | Le routeur principal d'un petit foyer (téléviseur, box de streaming, plusieurs téléphones et ordinateurs), et assez petit pour un sac à dos |
+| GL-MT6000 | De bureau | 400 $ | 2 ans de formule Personnel | Deux ports 2,5G plus quatre ports gigabit, antennes externes, la plus grande puissance de calcul | Grands logements, beaucoup d'appareils (une douzaine ou plus), accès Internet au-delà du gigabit, 4K et jeux sur console, ou petit bureau. Reste à poste fixe comme unique routeur |
+| GL-XE3000 | Mobile | 400 $ | 2 ans de formule Personnel | 5G/4G et batterie intégrées ; avec une carte SIM, c'est un réseau autonome, et il accepte aussi l'Ethernet | Lieux sans accès fixe : camping-cars, chantiers, salons professionnels, locations courtes ; ou secours pour la ligne de la maison |
 
 Les mois inclus s'entendent en formule Personnel ; Famille en reçoit la moitié et Entreprise le quart, pour la même valeur. Livraison gratuite dans le monde entier, en général sous 3 à 14 jours, retour possible sous 30 jours.
 
@@ -46,7 +46,7 @@ Les mois inclus s'entendent en formule Personnel ; Famille en reçoit la moitié
 
 - **Un appareil, deux rôles.** Assez puissant pour être le routeur principal d'un petit foyer, assez petit pour voyager. C'est le seul des quatre à faire les deux.
 - **Il ne vieillira pas vite.** Le Wi‑Fi 6 et le port 2,5G laissent de la marge par rapport à la plupart des accès Internet domestiques. Le mini n'a que du Wi‑Fi 2,4 GHz et des ports 100 Mbit/s, qui deviennent le goulot d'étranglement à la maison.
-- **Le prix se tient.** 300 $ avec 24 mois de service en formule Personnel, contre 200 $ avec 12 mois pour le mini. Service inclus compris, les 100 $ de plus vous offrent un appareil nettement meilleur plus une année supplémentaire.
+- **Le prix se tient.** 300 $ avec 2 ans de service en formule Personnel, contre 200 $ avec 12 mois pour le mini. Service inclus compris, les 100 $ de plus vous offrent un appareil nettement meilleur plus une année supplémentaire.
 - **C'est celui que nous connaissons le mieux.** Notre propre appareil de test est ce modèle, les nouveaux firmwares y sont vérifiés en premier, et le [tutoriel vidéo de flashage](02-flash-firmware-yourself.md) l'utilise. En cas de problème, nous avons le même appareil sur le bureau pour comparer.
 
 Quand ne pas le choisir : pour un grand logement, beaucoup d'appareils ou un accès au-delà du gigabit, prenez directement le GL-MT6000 ; sans accès fixe, le GL-XE3000 ; si c'est pour une seule personne en voyage et que le prix prime, le GL-MT300N-V2 suffit.
