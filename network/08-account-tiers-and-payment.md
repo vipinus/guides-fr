@@ -93,7 +93,7 @@ En Chine continentale, après un clic sur « Confirmer le paiement », la page a
 
 - Dans les 24 heures précédant l'expiration, vous recevez un e-mail de rappel indiquant que le service va expirer.
 - Après l'expiration, aucune méthode de connexion ne fonctionne ; les appareils de la méthode Privé passent hors ligne en quelques minutes, et le QR code Hiddify ne peut être régénéré qu'après renouvellement.
-- Un ou deux jours après l'expiration, vous recevez un e-mail indiquant que le service a expiré ; si vous y avez droit, il contient un bouton à utiliser sans connexion qui offre 30 minutes ; le lien est valable 7 jours et ne fonctionne qu'une fois.
+- Un ou deux jours après l'expiration, vous recevez un e-mail de rappel indiquant que le service a expiré.
 - Le service reprend dès le renouvellement ; sur les appareils de la méthode Privé, il suffit de cliquer une nouvelle fois sur « Log in » (connexion), et le réglage de sortie est conservé.
 
 ## FAQ
