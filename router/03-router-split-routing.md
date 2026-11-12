@@ -41,7 +41,7 @@ Le sens « accéder à la Chine depuis l'étranger » ne change pas.
 - **L'imprimante ou le NAS est injoignable après la connexion** : cela signifie que les adresses du réseau local sont aussi envoyées à l'extérieur. Vérifiez que les règles de routage sélectif excluent les plages privées comme 192.168.x.x.
 - **Les performances du routeur** fixent le plafond. Le processeur d'un vieux routeur sature sur le trafic chiffré, ce qui se traduit par un ralentissement de tout le foyer. Dans ce cas, la ligne VPN n'y est pour rien.
 
-## Un compte, un routeur
+## Routeur lié au compte
 
 La plupart des services lient le routeur au compte (par adresse MAC). Chez nous, un compte lie de 1 à 6 routeurs selon la formule ; une fois la limite atteinte, il faut en délier un avant de changer de routeur. Ainsi, le compte reste à vous seul.
 
