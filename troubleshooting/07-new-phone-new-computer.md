@@ -30,7 +30,7 @@ Le fichier de configuration se trouve en général sur le disque système et dis
 
 ### Changement de routeur
 
-Un routeur n'est pas un appareil comme les autres : il existe une **liaison** entre lui et le compte. Pour passer à un nouveau routeur, déliez d'abord l'ancien. Vous le faites vous-même sur le site : connectez-vous, ouvrez la rubrique Routeur, et cliquez sur « Délier » dans la ligne « Lié · modèle · Délier » ; le nouveau routeur se connecte alors tout seul. Voir l'article correspondant du guide Routeur pour les détails.
+Un routeur n'est pas un appareil comme les autres : il existe une **liaison** entre lui et le compte. Selon la formule, un compte lie de 1 à 6 routeurs ; tant que la limite n'est pas atteinte, le nouveau routeur se connecte directement. Si elle est atteinte, déliez d'abord l'ancien, vous-même sur le site : connectez-vous, ouvrez la rubrique Routeur, et dans la liste des routeurs liés sous « Compiler le Firmware » (compteur « x / y routeurs »), cliquez sur « Délier » au bout de la ligne de l'ancien ; le nouveau routeur se connecte alors tout seul. Voir l'article correspondant du guide Routeur pour les détails.
 
 ## Une idée reçue très répandue
 
@@ -45,7 +45,7 @@ La bonne pratique reste donc toujours : **allez sur le site et récupérez une n
 
 ## Que faire quand toutes les places sont prises
 
-Le nombre d'appareils pouvant être en ligne en même temps sur un compte dépend de la formule : 2 pour Personnel, 4 pour Famille, 8 pour Entreprise. Si l'ancien appareil est encore connecté au moment du changement, on peut vous indiquer que la limite est atteinte. Trois options :
+Le nombre d'appareils pouvant être en ligne en même temps sur un compte dépend de la formule : 2 pour Essentiel, 4 pour Standard, 8 pour Pro, 16 pour Élite, 32 pour Entreprise, 64 pour Ultime. Si l'ancien appareil est encore connecté au moment du changement, on peut vous indiquer que la limite est atteinte. Trois options :
 
 - Déconnectez-vous ou fermez le client sur l'ancien appareil
 - Patientez un peu : les connexions inactives sont libérées automatiquement
@@ -54,4 +54,4 @@ Le nombre d'appareils pouvant être en ligne en même temps sur un compte dépen
 Sur la page web, vous voyez combien d'appareils sont actuellement en ligne et de quel type est chacun, ce qui permet de repérer si vous en avez oublié un.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=troubleshooting-07) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=troubleshooting-07) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=troubleshooting-07) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=troubleshooting-07) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

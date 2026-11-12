@@ -39,11 +39,11 @@ Seule une mise à jour majeure de tout le firmware demande de flasher le fichier
 
 ## FAQ
 
-**La formule Personnel permet-elle d'utiliser un routeur ?** Oui. Personnel, Famille et Entreprise prennent toutes en charge un routeur, sans changer de formule.
+**La formule Essentiel permet-elle d'utiliser un routeur ?** Oui. Les six formules payantes prennent en charge le routeur, sans bridage de débit ni changement de formule ; Essentiel en lie 1, montez de formule pour en lier davantage.
 
 **Combien de places le routeur occupe-t-il ?** Une seule ; les appareils derrière lui ne sont pas comptés.
 
 **Le firmware contient-il une porte dérobée ?** Il est compilé à partir d'OpenWrt, avec seulement le composant de connexion au VPN et les règles de routage sélectif en plus ; le VPN n'enregistre que la durée de connexion et le volume total de trafic, pour la facturation.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

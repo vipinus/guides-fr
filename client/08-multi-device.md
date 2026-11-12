@@ -11,7 +11,7 @@ Quand on a beaucoup d'appareils, le plus pénible est de les configurer un par u
 
 ## Comment sont comptés les appareils simultanés
 
-Un compte peut être installé sur autant d'appareils que vous voulez ; la seule limite est le nombre d'appareils en ligne en même temps : Personnel 2, Famille 4, Entreprise 8, avec un quota commun à Cisco, Hiddify et aux autres méthodes. Si vous dépassez la limite de votre formule, vous pouvez passer temporairement à une formule supérieure (le temps restant est converti à valeur égale selon le prix) et revenir en arrière ensuite.
+Un compte peut être installé sur autant d'appareils que vous voulez ; la seule limite est le nombre d'appareils en ligne en même temps : Essentiel 2, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64, avec un quota commun à Cisco, Hiddify et aux autres méthodes. Si vous dépassez la limite de votre formule, vous pouvez passer temporairement à une formule supérieure (le temps restant est converti à valeur égale selon le prix) et revenir en arrière ensuite.
 
 Un routeur compte pour un appareil, et les appareils derrière lui ne sont pas comptés. Un routeur ou un NAS à la maison, plus le téléphone et le portable que vous emportez, suffit généralement.
 
@@ -49,4 +49,4 @@ Un routeur compte pour un appareil, et les appareils derrière lui ne sont pas c
 Version de cet article sur le site : https://www.leotun.com/fr/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=client-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=client-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=client-08) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=client-08) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre permanente

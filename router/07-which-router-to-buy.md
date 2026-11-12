@@ -2,7 +2,7 @@
 
 > Version sur le site (plus détaillée) : https://www.leotun.com/fr/guides/router?utm_source=github&utm_content=router-07
 
-Le routeur résout le problème du « trop d'appareils, dont certains ne peuvent pas installer de client » : le VPN est configuré une fois sur le routeur, et le téléviseur, la console de jeu, l'enceinte connectée et le téléphone du parent âgé passent tous automatiquement par lui, sans rien installer. Il suffit d'un routeur qu'on peut flasher et de dix minutes de flashage. **Les comptes Personnel, Famille et Entreprise peuvent tous utiliser un routeur.**
+Le routeur résout le problème du « trop d'appareils, dont certains ne peuvent pas installer de client » : le VPN est configuré une fois sur le routeur, et le téléviseur, la console de jeu, l'enceinte connectée et le téléphone du parent âgé passent tous automatiquement par lui, sans rien installer. Il suffit d'un routeur qu'on peut flasher et de dix minutes de flashage. **Les six formules payantes permettent toutes d'utiliser un routeur, et chacune en lie de 1 à 6.**
 
 ## Quand en prendre un, et quand s'en passer
 
@@ -26,12 +26,12 @@ Dans les deux cas, le firmware met à jour ses composants tout seul, sans reflas
 
 | Modèle | Type | Prix | Inclus | Ce que c'est | Idéal pour |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Portable | 250 $ | 2 ans de formule Personnel | Wi‑Fi 6 bibande avec un port 2,5G, à peine plus grand que la paume | Le routeur principal d'un petit foyer (téléviseur, box de streaming, plusieurs téléphones et ordinateurs), et assez petit pour un sac à dos |
-| GL-AXT1800 | Portable | 300 $ | 2 ans de formule Personnel | Wi‑Fi 6 bibande, un port WAN gigabit et deux ports LAN gigabit, à peu près de la taille du GL-MT3000 | En déplacement, quand il faut brancher deux appareils en filaire en plus du Wi‑Fi, par exemple un portable et un boîtier TV |
-| GL-MT3600BE | Portable | 350 $ | 2 ans de formule Personnel | Wi‑Fi 7 bibande avec deux ports 2,5G, à peu près de la taille du GL-MT3000 | Téléphones et ordinateurs déjà compatibles Wi‑Fi 7, pour un sans-fil plus rapide dans un appareil qu'on peut encore emporter |
-| GL-MT6000 | De bureau | 400 $ | 2 ans de formule Personnel | Deux ports 2,5G plus quatre ports gigabit, antennes externes, la plus grande puissance de calcul | Grands logements, beaucoup d'appareils (une douzaine ou plus), accès Internet au-delà du gigabit, 4K et jeux sur console, ou petit bureau. Reste à poste fixe comme unique routeur |
+| **GL-MT3000** | Portable | 250 $ | 2 ans de formule Essentiel | Wi‑Fi 6 bibande avec un port 2,5G, à peine plus grand que la paume | Le routeur principal d'un petit foyer (téléviseur, box de streaming, plusieurs téléphones et ordinateurs), et assez petit pour un sac à dos |
+| GL-AXT1800 | Portable | 300 $ | 2 ans de formule Essentiel | Wi‑Fi 6 bibande, un port WAN gigabit et deux ports LAN gigabit, à peu près de la taille du GL-MT3000 | En déplacement, quand il faut brancher deux appareils en filaire en plus du Wi‑Fi, par exemple un portable et un boîtier TV |
+| GL-MT3600BE | Portable | 350 $ | 2 ans de formule Essentiel | Wi‑Fi 7 bibande avec deux ports 2,5G, à peu près de la taille du GL-MT3000 | Téléphones et ordinateurs déjà compatibles Wi‑Fi 7, pour un sans-fil plus rapide dans un appareil qu'on peut encore emporter |
+| GL-MT6000 | De bureau | 400 $ | 2 ans de formule Essentiel | Deux ports 2,5G plus quatre ports gigabit, antennes externes, la plus grande puissance de calcul | Grands logements, beaucoup d'appareils (une douzaine ou plus), accès Internet au-delà du gigabit, 4K et jeux sur console, ou petit bureau. Reste à poste fixe comme unique routeur |
 
-Les mois inclus s'entendent en formule Personnel ; Famille en reçoit la moitié et Entreprise le quart, pour la même valeur. Livraison gratuite dans le monde entier, en général sous 3 à 14 jours. Garantie six mois ; les routeurs ne sont pas remboursables.
+Les mois inclus s'entendent en formule Essentiel ; Standard 12 mois, Pro 6 mois, Élite 3 mois, Entreprise 1 mois, rien en plus pour Ultime, pour la même valeur. Livraison gratuite dans le monde entier, en général sous 3 à 14 jours. Garantie six mois ; les routeurs ne sont pas remboursables.
 
 ### Choix rapide selon la situation
 
@@ -46,7 +46,7 @@ Les mois inclus s'entendent en formule Personnel ; Famille en reçoit la moitié
 
 - **Un appareil, deux rôles.** Assez puissant pour être le routeur principal d'un petit foyer, assez petit pour voyager. C'est le seul des quatre à faire les deux.
 - **Il ne vieillira pas vite.** Le Wi‑Fi 6 et le port 2,5G laissent de la marge par rapport à la plupart des accès Internet domestiques.
-- **Son prix est le plus bas.** 250 $ avec 2 ans de service en formule Personnel : le moins cher des quatre, 50 $ de moins que le GL-AXT1800, avec pourtant un port 2,5G.
+- **Son prix est le plus bas.** 250 $ avec 2 ans de service en formule Essentiel : le moins cher des quatre, 50 $ de moins que le GL-AXT1800, avec pourtant un port 2,5G.
 - **C'est celui que nous connaissons le mieux.** Notre propre appareil de test est ce modèle, les nouveaux firmwares y sont vérifiés en premier, et le [tutoriel vidéo de flashage](02-flash-firmware-yourself.md) l'utilise. En cas de problème, nous avons le même appareil sur le bureau pour comparer.
 
 Quand ne pas le choisir : pour un modèle portable avec deux ports filaires, le GL-AXT1800 ; pour des appareils compatibles Wi‑Fi 7, le GL-MT3600BE ; pour un grand logement, beaucoup d'appareils ou un accès au-delà du gigabit, prenez directement le GL-MT6000.
@@ -61,11 +61,11 @@ Quand ne pas le choisir : pour un modèle portable avec deux ports filaires, le 
 
 ## FAQ
 
-**Le routeur compte-t-il pour un appareil ?** Il occupe une place sur le compte (selon la formule : Personnel 2, Famille 4, Entreprise 8 appareils en ligne en même temps), et les appareils derrière lui ne sont pas comptés séparément.
+**Le routeur compte-t-il pour un appareil ?** Chaque routeur occupe une place sur le compte (selon la formule : Essentiel 2, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64 appareils en ligne en même temps), et les appareils derrière lui ne sont pas comptés séparément.
 
 **Peut-il servir à regarder des vidéos chinoises depuis l'étranger ?** Oui, choisissez la région Chine pour la ligne. Le routeur fait entrer tout le réseau local dans le VPN, et l'IPv6 et le DNS des appareils ne peuvent pas sortir à côté, si bien que les messages de « restriction de droits » apparaissent moins souvent que lorsqu'un téléphone se connecte seul. Voir [06](06-unlock-chinese-video-with-router.md).
 
 **Le firmware contient-il une porte dérobée ?** Il est compilé à partir d'OpenWrt, en y ajoutant seulement le composant qui se connecte au VPN et les règles de routage sélectif ; le VPN n'enregistre que la durée de connexion et le trafic total pour la facturation, et n'enregistre pas ce que vous consultez.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-07) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-07) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-07) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-07) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

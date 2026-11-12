@@ -13,7 +13,7 @@ Les **principes** de l'accès transfrontalier expliqués simplement, **comment c
 | [05 · Comment repérer un logiciel VPN à risque](05-risky-vpn-apps.md) |
 | [06 · Pourquoi c'est parfois rapide, parfois lent](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Ce que la ligne résout, et ce qui demande une autre solution](07-when-you-do-not-need-us.md) |
-| [08 · Choisir parmi les trois formules, renouveler et payer](08-account-tiers-and-payment.md) |
+| [08 · Choisir sa formule, renouveler et payer](08-account-tiers-and-payment.md) |
 | [09 · Que faire quand vous manquez de connexions simultanées](09-not-enough-devices.md) |
 
 [← Retour au sommaire général](../README.md)

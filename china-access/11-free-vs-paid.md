@@ -24,11 +24,11 @@ Un test simple : si une coupure vous agace, c'est qu'il est temps de payer.
 
 ## Combien dépenser
 
-La formule Personnel de LeoTun coûte 5 dollars US par mois et comprend 24 régions, 2 appareils en ligne en même temps et toutes les méthodes de connexion (AnyConnect / OpenVPN / Hiddify / Proxy Web) ; elle s'utilise aussi avec un routeur. Les formules Famille et Entreprise coûtent respectivement 2 fois et 4 fois la formule Personnel. Régions, lignes et méthodes de connexion sont strictement identiques sur les trois formules ; seule change la limite d'appareils en ligne en même temps (4 et 8).
+La formule Essentiel de LeoTun coûte 5 dollars US par mois et comprend 24 régions, 2 appareils en ligne en même temps et toutes les méthodes de connexion (AnyConnect / OpenVPN / Hiddify / Proxy Web) ; elle s'utilise aussi avec un routeur. Au-dessus, Standard, Pro, Élite, Entreprise et Ultime doublent le prix à chaque formule. Régions, lignes et méthodes de connexion sont strictement identiques partout ; seuls changent la limite d'appareils en ligne en même temps (de 4 à 64) et le nombre de routeurs qu'on peut lier.
 
-Si vous ne voulez pas acheter au mois, il y a deux voies : demandez d'abord l'essai gratuit de 30 minutes (sans carte bancaire, une fois par compte) et testez-le une fois à l'heure de pointe du soir ; ou payez à la journée. Après une recharge de points, la formule Personnel consomme 1 point par jour, et 28 points coûtent 10 dollars US, soit environ 0,36 dollar US par jour ; n'en acheter que quelques jours avant un séjour en Chine convient très bien.
+Si vous ne voulez pas acheter au mois, il y a deux voies : demandez d'abord l'essai gratuit de 30 minutes (sans carte bancaire, une fois par compte) et testez-le une fois à l'heure de pointe du soir ; ou payez à la journée. Après une recharge de points, la formule Essentiel consomme 1 point par jour, et 28 points coûtent 10 dollars US, soit environ 0,36 dollar US par jour ; n'en acheter que quelques jours avant un séjour en Chine convient très bien.
 
-Quand un ami que vous invitez s'inscrit et paie pour la première fois, vous recevez chacun 15 points (environ 15 jours en formule Personnel), sans limite de nombre. C'est une source durable de temps gratuit.
+Quand un ami que vous invitez s'inscrit et paie pour la première fois, vous recevez chacun 15 points (environ 15 jours en formule Essentiel), sans limite de nombre. C'est une source durable de temps gratuit.
 
 ## Comment juger sur pièce avant de payer
 
@@ -60,4 +60,4 @@ Quand un ami que vous invitez s'inscrit et paie pour la première fois, vous rec
 Version de cet article sur le site : https://www.leotun.com/fr/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-11) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-11) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-11) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-11) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

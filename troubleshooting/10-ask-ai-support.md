@@ -17,7 +17,7 @@ L'assistance IA « SpongeBob » (Bob l'éponge) répond 24 h/24 dans les trois g
 |---|---|
 | Ça ne se connecte pas | Windows 11, Cisco vers le Japon, ça tourne sans fin puis indique que la connexion a expiré, même chose avec la Corée, accès Internet à la maison chez China Unicom |
 | C'est très lent | iPhone avec Hiddify, Singapour sélectionné, les pages web s'ouvrent mais la vidéo n'arrête pas de charger, surtout après 21 h |
-| Comment je fais ? | Je viens d'acheter la formule Famille et je voudrais que la télévision Xiaomi de la maison puisse l'utiliser aussi. Est-ce possible ? |
+| Comment je fais ? | Je viens d'acheter la formule Standard et je voudrais que la télévision Xiaomi de la maison puisse l'utiliser aussi. Est-ce possible ? |
 | Poser dans un seul message des questions sur le renouvellement, le changement de région et le routeur | Une question à la fois, et la suivante une fois la première réglée |
 
 ## Comment obtenir une réponse dans chacun des trois groupes
@@ -51,4 +51,4 @@ Les adresses de connexion VPN se récupèrent sur le site : une fois connecté, 
 - L'assistance ne vous écrira jamais en privé pour demander un mot de passe, un code de vérification ou un paiement, et ne vous demandera jamais d'elle-même d'installer un logiciel de prise de contrôle à distance.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=troubleshooting-10) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=troubleshooting-10) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=troubleshooting-10) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=troubleshooting-10) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

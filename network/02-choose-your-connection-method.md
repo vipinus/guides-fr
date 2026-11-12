@@ -9,7 +9,7 @@ Un compte LeoTun offre six méthodes de connexion : Privé (Tailscale), Cisco (A
 - Un ordinateur fourni par l'entreprise, sans droits administrateur : Proxy Web. Vous n'installez qu'une extension de navigateur, aucun droit administrateur n'est nécessaire, et les réglages réseau de l'entreprise ne sont pas touchés.
 - iPhone, appareils anciens : Cisco. Il se connecte avec le VPN intégré du système ou le client officiel, sans importer de configuration, et c'est la meilleure compatibilité.
 - NAS (Synology, QNAP), serveurs Linux : OpenVPN. Importez un fichier .ovpn et il se connecte automatiquement au démarrage ; la plupart de ces appareils ont un client intégré.
-- Téléviseurs, box TV, consoles de jeu, téléphone d'un proche âgé : Routeur. Tout ce qui est connecté au Wi‑Fi passe par la ligne, sans rien installer sur l'appareil. Les trois formules permettent de l'utiliser.
+- Téléviseurs, box TV, consoles de jeu, téléphone d'un proche âgé : Routeur. Tout ce qui est connecté au Wi‑Fi passe par la ligne, sans rien installer sur l'appareil. Les six formules payantes permettent de l'utiliser.
 - Beaucoup d'appareils pour toute une famille ou un bureau : Routeur, configuré une fois et valable pour tous ; si vous voulez aussi joindre le NAS de la maison depuis l'extérieur, ajoutez Privé.
 
 ## Selon le réseau : sur quel réseau vous êtes
@@ -62,7 +62,7 @@ Si un site ne s'ouvre pas en routage sélectif, passez d'abord temporairement en
 
 **Laquelle pour les jeux et les appels vocaux ?** Hiddify, Privé ou Routeur, avec la région à la plus faible latence. Le proxy web ne s'occupe que du navigateur ; les jeux et les applis d'appel n'y passent pas.
 
-**Peut-on utiliser les six méthodes en même temps ?** Sur des appareils différents, oui ; toutes les méthodes d'un même compte partagent le quota d'appareils en ligne simultanément (Personnel 2 appareils, Famille 4 appareils, Entreprise 8 appareils). Ne faites pas tourner deux méthodes pour toute la machine en même temps sur le même appareil (par exemple Privé et Cisco) : elles se disputeraient les réglages réseau.
+**Peut-on utiliser les six méthodes en même temps ?** Sur des appareils différents, oui ; toutes les méthodes d'un même compte partagent le quota d'appareils en ligne simultanément (Essentiel 2 appareils, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64). Ne faites pas tourner deux méthodes pour toute la machine en même temps sur le même appareil (par exemple Privé et Cisco) : elles se disputeraient les réglages réseau.
 
 **Faut-il choisir entre routeur et client ?** Non. Utilisez le routeur à la maison et activez le client sur votre téléphone quand vous sortez ; chacun compte pour un appareil.
 
@@ -78,4 +78,4 @@ Si un site ne s'ouvre pas en routage sélectif, passez d'abord temporairement en
 Version de cet article sur le site : https://www.leotun.com/fr/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-02) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-02) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-02) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-02) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre permanente

@@ -26,9 +26,9 @@ La rubrique Privé repose sur Tailscale, un outil de mise en réseau construit s
 
 ## Expiration et nombre d'appareils
 
-La validité de connexion d'un appareil suit la date d'expiration du compte ; il passe hors ligne quelques minutes après l'expiration, et il suffit de se reconnecter après le renouvellement. Le nombre d'appareils en ligne en même temps dépend de la formule (Personnel 2, Famille 4, Entreprise 8), avec un quota commun aux autres méthodes de connexion ; si vous dépassez la limite de votre formule, vous pouvez passer temporairement à une formule supérieure (le temps restant est converti à valeur égale selon le prix) et revenir en arrière ensuite.
+La validité de connexion d'un appareil suit la date d'expiration du compte ; il passe hors ligne quelques minutes après l'expiration, et il suffit de se reconnecter après le renouvellement. Le nombre d'appareils en ligne en même temps dépend de la formule (Essentiel 2, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64), avec un quota commun aux autres méthodes de connexion ; si vous dépassez la limite de votre formule, vous pouvez passer temporairement à une formule supérieure (le temps restant est converti à valeur égale selon le prix) et revenir en arrière ensuite.
 
 Pour l'installation et la connexion, voir le [guide client 05](../client/05-tailscale-private-network.md).
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-03) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-03) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; chaque ami invité qui paie vous rapporte à tous les deux 15 points (environ 15 jours en formule Personnel), une offre sans date de fin
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=network-03) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=network-03) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; chaque ami invité qui paie vous rapporte à tous les deux 15 points (environ 15 jours en formule Essentiel), une offre sans date de fin

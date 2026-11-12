@@ -29,7 +29,7 @@ La rubrique Privé utilise Tailscale (un outil de mise en réseau bâti sur Wire
 ## Expiration et nombre d'appareils
 
 - La validité de la connexion d'un appareil suit la date d'expiration du compte, et il passe hors ligne quelques minutes après l'expiration ; après le renouvellement, il suffit de se reconnecter une fois. Aucune réinstallation nécessaire.
-- Le nombre d'appareils en ligne en même temps dépend de votre formule (Personnel 2, Famille 4, Entreprise 8), et le quota est commun aux autres méthodes d'accès ; si vous dépassez la limite de votre formule, vous pouvez passer temporairement à une formule supérieure (le temps restant est converti à valeur égale selon le prix) et revenir en arrière ensuite.
+- Le nombre d'appareils en ligne en même temps dépend de votre formule (Essentiel 2, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64), et le quota est commun aux autres méthodes d'accès ; si vous dépassez la limite de votre formule, vous pouvez passer temporairement à une formule supérieure (le temps restant est converti à valeur égale selon le prix) et revenir en arrière ensuite.
 
 ## Deux cas où une autre méthode convient mieux
 
@@ -37,4 +37,4 @@ La rubrique Privé utilise Tailscale (un outil de mise en réseau bâti sur Wire
 - Sur un réseau de campus / d'entreprise qui restreint l'UDP : WireGuard passe par l'UDP et ne peut alors que passer par des relais, ce qui est très lent ; passez à AnyConnect.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=client-05) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=client-05) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=client-05) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=client-05) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre permanente

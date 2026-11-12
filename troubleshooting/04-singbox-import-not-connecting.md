@@ -16,7 +16,7 @@ Retrouvez votre erreur dans le tableau. Pour l'import lui-même, voir [Importer 
 
 ## Faut-il réimporter après un renouvellement, un changement de formule ou de mot de passe
 
-- **Renouvellement ou changement de formule (Personnel / Famille / Entreprise)** : non. La configuration existante continue de fonctionner.
+- **Renouvellement ou changement de formule (Essentiel, Standard, Pro, etc.)** : non. La configuration existante continue de fonctionner.
 - **Changement de mot de passe** : l'ancienne configuration cesse aussitôt de fonctionner ; scannez à nouveau le QR code. Si vous perdez votre téléphone ou si le lien a fuité, c'est ainsi que vous révoquez l'accès.
 - **Compte expiré** : la configuration renvoie 401. Après le renouvellement, pas besoin de nouvelle configuration : reconnectez-vous simplement.
 - **Importé avant septembre 2026** : la règle qui rejette l'IPv6 manque, si bien que regarder des vidéos chinoises depuis l'étranger affiche un message de restriction de droits. Supprimez et réimportez ; voir [03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@ Retrouvez votre erreur dans le tableau. Pour l'import lui-même, voir [Importer 
 Indiquez trois choses à l'assistance : le nom et la version du client, la région, et le texte exact de l'erreur ou une capture d'écran.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=troubleshooting-04) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=troubleshooting-04) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=troubleshooting-04) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=troubleshooting-04) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

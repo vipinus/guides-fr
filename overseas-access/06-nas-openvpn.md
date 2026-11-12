@@ -31,7 +31,7 @@ Accéder au NAS depuis l'extérieur (ouvrir les partages en déplacement, regard
 
 - Le fichier de configuration contient votre compte, et le mot de passe enregistré sur le NAS cesse de fonctionner après un changement de mot de passe : téléchargez à nouveau le .ovpn et remplacez-le, ou changez seulement le mot de passe dans le profil VPN.
 - Quand le compte expire, le NAS est déconnecté ; après le renouvellement, il se reconnecte automatiquement, sans changer la configuration.
-- Le NAS compte pour un appareil et partage le quota d'appareils en ligne en même temps avec vos autres appareils (Personnel 2, Famille 4, Entreprise 8).
+- Le NAS compte pour un appareil et partage le quota d'appareils en ligne en même temps avec vos autres appareils (Essentiel 2, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64).
 - La ligne passe par l'UDP ; un NAS sur un accès Internet domestique ne rencontre presque jamais de restriction UDP.
 
 ## FAQ
@@ -54,4 +54,4 @@ Accéder au NAS depuis l'extérieur (ouvrir les partages en déplacement, regard
 Version de cet article sur le site : https://www.leotun.com/fr/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=overseas-access-06) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=overseas-access-06) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=overseas-access-06) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=overseas-access-06) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

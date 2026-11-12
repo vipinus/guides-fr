@@ -29,9 +29,9 @@ Les codes de vérification par SMS qui n'arrivent jamais n'ont rien à voir avec
 
 ## FAQ
 
-**Le voyage ne dure que quelques jours. Faut-il acheter un mois ?** Non. Rechargez des points et payez à la journée : la formule Personnel coûte 1 point par jour, soit environ 0,36 dollar US par jour, ce qui convient bien à quelques jours. Testez d'abord avec l'essai gratuit de 30 minutes.
+**Le voyage ne dure que quelques jours. Faut-il acheter un mois ?** Non. Rechargez des points et payez à la journée : la formule Essentiel coûte 1 point par jour, soit environ 0,36 dollar US par jour, ce qui convient bien à quelques jours. Testez d'abord avec l'essai gratuit de 30 minutes.
 
-**Mon téléphone et mon portable peuvent-ils se connecter en même temps ?** Oui. Selon la formule, un compte permet 2 / 4 / 8 appareils en ligne simultanément (Personnel / Famille / Entreprise), et la formule Personnel correspond exactement à un téléphone plus un portable.
+**Mon téléphone et mon portable peuvent-ils se connecter en même temps ?** Oui. Selon la formule, un compte permet de 2 à 64 appareils en ligne simultanément (Essentiel 2, Standard 4, puis le double à chaque formule), et la formule Essentiel correspond exactement à un téléphone plus un portable.
 
 **Pourquoi recommander Cisco plutôt que Hiddify en voyage ?** Sur un réseau inconnu, la principale crainte est un UDP restreint. Cisco passe par TLS, comme la visite d'un site HTTPS, et passe presque partout ; Hiddify est plus rapide sur les réseaux avec beaucoup de pertes de paquets, mais ne fonctionne pas quand l'UDP est restreint. Installer les deux et basculer quand l'un ne marche pas est le plus fiable.
 
@@ -47,4 +47,4 @@ Les codes de vérification par SMS qui n'arrivent jamais n'ont rien à voir avec
 Version de cet article sur le site : https://www.leotun.com/fr/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-12) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-12) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre permanente
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-12) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-12) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre permanente

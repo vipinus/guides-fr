@@ -24,7 +24,7 @@ C'est le cas le plus courant, et aussi le plus difficile. Le NVR n'a pas d'IP pu
 2. Ajoutez aussi le téléphone ou l'ordinateur qui est à l'étranger au même réseau privé.
 3. Dès lors, l'appareil à l'étranger joint directement le NVR à son adresse sur le réseau local de la maison, exactement comme si vous y étiez.
 
-La méthode « Privé » de LeoTun est précisément ce type de réseau privé. Un compte s'installe sur autant d'appareils que vous voulez, et le nombre d'appareils en ligne en même temps dépend de la formule : Personnel 2, Famille 4, Entreprise 8. Un appareil à la maison plus quelques-uns à l'étranger, cela correspond exactement à la formule Famille.
+La méthode « Privé » de LeoTun est précisément ce type de réseau privé. Un compte s'installe sur autant d'appareils que vous voulez, et le nombre d'appareils en ligne en même temps dépend de la formule : Essentiel 2, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64. Un appareil à la maison plus quelques-uns à l'étranger, cela correspond exactement à la formule Standard.
 
 ## Cas 3 : les comptes ne correspondent pas
 
@@ -35,4 +35,4 @@ Un appareil acheté en Chine est lié à un compte chinois, et l'appli de la bou
 L'image de vos caméras ne devrait circuler qu'entre vos appareils et votre domicile. Avec le réseau privé, la connexion directe d'appareil à appareil est privilégiée, un relais n'intervenant que si elle est impossible, et l'image n'est stockée sur aucun serveur ; avec le cloud du fabricant, en revanche, elle passe par le fabricant. Dans les deux cas, n'utilisez pas d'« outils de tunnel » d'origine inconnue : cela revient à confier vos caméras à quelqu'un d'autre.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-07) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-07) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=china-access-07) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=china-access-07) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

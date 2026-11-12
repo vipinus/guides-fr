@@ -9,7 +9,7 @@ Autres langues : [English](https://github.com/vipinus/guides-en) · [简体中�
 | Comment l'obtenir | Ce que vous obtenez |
 |---|---|
 | Demandez l'essai gratuit après l'inscription | 30 minutes avec toutes les fonctions, sans carte bancaire |
-| Invitez un ami qui s'inscrit et paie pour la première fois | 15 points chacun pour vous et votre ami (environ 15 jours en formule Personnel, qui consomme 1 point par jour), crédités directement sur votre solde de points, une fois par ami, sans limite du nombre d'amis |
+| Invitez un ami qui s'inscrit et paie pour la première fois | 15 points chacun pour vous et votre ami (environ 15 jours en formule Essentiel, qui consomme 1 point par jour), crédités directement sur votre solde de points, une fois par ami, sans limite du nombre d'amis |
 
 Site : <https://www.leotun.com/fr?utm_source=github&utm_content=readme> · Nous contacter : <https://www.leotun.com/fr/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ Les **principes** de l'accès transfrontalier expliqués simplement, **comment c
 | [05 · Comment repérer un logiciel VPN à risque](network/05-risky-vpn-apps.md) |
 | [06 · Pourquoi c'est parfois rapide, parfois lent](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Ce que la ligne résout, et ce qui demande une autre solution](network/07-when-you-do-not-need-us.md) |
-| [08 · Choisir parmi les trois formules, renouveler et payer](network/08-account-tiers-and-payment.md) |
+| [08 · Choisir sa formule, renouveler et payer](network/08-account-tiers-and-payment.md) |
 | [09 · Que faire quand vous manquez de connexions simultanées](network/09-not-enough-devices.md) |
 
 ### [Guides des clients · Installation et configuration](client/)

@@ -34,7 +34,7 @@ Avec cette voie, il n'y a par principe aucune connexion qui puisse tomber ; elle
 
 ## À savoir
 
-- Une machine Linux compte pour un appareil et partage le quota d'appareils simultanés avec vos autres appareils (Personnel 2 appareils, Famille 4, Entreprise 8) ; le proxy web de la voie n° 2 est compté par connexion et entre aussi dans ce quota.
+- Une machine Linux compte pour un appareil et partage le quota d'appareils simultanés avec vos autres appareils (Essentiel 2 appareils, Standard 4, Pro 8, Élite 16, Entreprise 32, Ultime 64) ; le proxy web de la voie n° 2 est compté par connexion et entre aussi dans ce quota.
 - Le fichier de configuration et le fichier de mot de passe valent votre compte : ne les envoyez pas dans un dépôt git et ne les intégrez pas à une image.
 - Dès que vous changez de mot de passe, l'ancienne configuration cesse de fonctionner : c'est le mécanisme de révocation prévu. Il suffit de mettre à jour le fichier de mot de passe.
 - Si vous utilisez la ligne sur un serveur cloud, respectez les conditions d'utilisation de l'hébergeur ; la ligne n'enregistre que la durée de connexion et le volume total de trafic.
@@ -59,4 +59,4 @@ Avec cette voie, il n'y a par principe aucune connexion qui puisse tomber ; elle
 Version de cet article sur le site : https://www.leotun.com/fr/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=overseas-access-05) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=overseas-access-05) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=overseas-access-05) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=overseas-access-05) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

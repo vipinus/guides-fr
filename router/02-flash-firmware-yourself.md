@@ -9,7 +9,7 @@ Ce guide s'adresse à ceux qui ont déjà un routeur dont le modèle figure dans
 ## Avant de commencer
 
 - **Vérifiez que votre modèle est pris en charge.** Connectez-vous, ouvrez la section **Routeur** et cherchez votre modèle par marque. La révision matérielle indiquée après le nom du modèle (v1, v2, etc.) doit aussi correspondre.
-- **Votre compte doit être actif.** Les formules Personnel, Famille et Entreprise permettent toutes d'utiliser un routeur.
+- **Votre compte doit être actif.** Les six formules payantes permettent d'utiliser un routeur (pas l'essai gratuit).
 - **Prévoyez un câble réseau.** Le port WAN du routeur se branche sur votre box ou votre routeur amont. Pendant le flash, mieux vaut aussi relier l'ordinateur au routeur par câble : c'est plus stable que le Wi-Fi.
 - **Gardez une copie du firmware d'origine.** Téléchargez le firmware d'origine de votre modèle sur le site du fabricant, au cas où vous voudriez revenir en arrière.
 
@@ -84,10 +84,10 @@ Pour vérifier qu'il est connecté, ouvrez depuis un appareil branché sur le ro
 
 ## Remplacer un ancien routeur par un nouveau
 
-Un compte n'est lié qu'à un seul routeur à la fois. Si votre compte a déjà servi sur un autre routeur :
+Selon la formule, un compte peut lier de 1 à 6 routeurs (1 en Essentiel, un de plus à chaque formule au-dessus). Tant que la limite n'est pas atteinte, le nouveau routeur **se connecte automatiquement** et se lie, sans rien délier. Si la limite est atteinte et que vous remplacez un routeur :
 
-1. Connectez-vous, ouvrez la section **Routeur** : sous le titre « Compiler le Firmware », vous voyez le modèle **Lié**, avec **Délier** à côté.
-2. Cliquez sur Délier. C'est possible même si l'ancien routeur est en panne ou n'est pas sous la main.
+1. Connectez-vous et ouvrez la section **Routeur** : sous le titre « Compiler le Firmware » se trouve la liste des routeurs liés (avec le compteur « x / y routeurs »), un par ligne avec son modèle et la fin de son adresse MAC.
+2. Au bout de la ligne du routeur inutilisé, cliquez sur **Délier**. C'est possible même si l'ancien routeur est en panne ou n'est pas sous la main.
 3. Rien à faire sur le nouveau routeur : il **se connecte automatiquement** et se lie à votre compte.
 
 Si vous flashez le nouveau routeur avant de délier l'ancien, ce n'est pas grave non plus. Le nouveau routeur attend et se connecte tout seul dès que vous déliez.
@@ -104,7 +104,7 @@ Si rien ne marche après une dizaine de minutes, vérifiez dans cet ordre :
 
 1. **La connexion Internet elle-même fonctionne-t-elle ?** Depuis un appareil branché sur le routeur, ouvrez n'importe quel site ordinaire. Si cela échoue, le problème vient du câble ou de la box : vérifiez que le câble du port WAN est bien enfoncé.
 2. **Le compte a-t-il expiré ?** Connectez-vous au site et regardez la date d'expiration. Après un renouvellement, attendez quelques minutes.
-3. **Le compte est-il encore lié à l'ancien routeur ?** Dans la section Routeur, regardez le modèle lié. Si ce n'est pas ce routeur, cliquez sur Délier.
+3. **La limite de routeurs du compte est-elle atteinte ?** Dans la section Routeur, regardez le compteur « x / y routeurs ». S'il est plein, cliquez sur Délier au bout de la ligne d'un routeur inutilisé. Si la page de connexion du routeur indique que l'identifiant ou le mot de passe est incorrect alors qu'il est juste, c'est presque toujours que la limite est atteinte.
 4. **Redémarrez le routeur une fois.** Débranchez-le, attendez dix secondes, rebranchez-le et laissez-lui deux à trois minutes.
 5. **Connectez-vous manuellement.** Ouvrez `http://192.168.11.1` et connectez-vous au routeur avec l'utilisateur `root` et le mot de passe `www.anyfq.com`. Allez ensuite dans **Services** → **VPN**, saisissez l'e-mail et le mot de passe de votre compte, puis enregistrez.
 
@@ -124,11 +124,11 @@ La plupart des routeurs ont un mode de récupération : débranchez l'alimentati
 
 **Puis-je revenir au firmware d'origine ?** Oui. Utilisez le mode de récupération décrit dans « Si le flash tourne mal » pour envoyer le firmware d'origine.
 
-**Un même fichier de firmware peut-il servir sur deux routeurs ?** Non. Le firmware est généré par compte, et un compte n'est lié qu'à un seul routeur à la fois.
+**Un compte peut-il servir sur deux routeurs ?** Oui, à partir de la formule Standard (Essentiel n'en lie qu'un) : dans la section Routeur, générez le firmware pour le modèle du deuxième routeur et flashez-le ; il se lie automatiquement à sa première connexion.
 
 **Faut-il recompiler si je change de compte ?** Non. Déconnectez-vous dans la page d'administration et reconnectez-vous avec le nouveau compte.
 
 **Les futures mises à jour exigeront-elles un nouveau flash ?** Les mises à jour courantes sont récupérées par le routeur tout seul ; vous n'avez rien à faire. Seule une version majeure demande une nouvelle compilation et un flash du fichier sysupgrade, et le site l'annoncera le moment venu.
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-02) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-02) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-02) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-02) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable

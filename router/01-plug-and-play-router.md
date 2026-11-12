@@ -4,7 +4,7 @@
 
 1. **Branchez l'alimentation et le câble réseau** : reliez le port WAN du routeur à votre box ou routeur existant, et attendez que le voyant se stabilise, environ une minute.
 2. **Connectez-vous au Wi-Fi** : le nom et le mot de passe Wi-Fi par défaut sont imprimés sur la carte d'instructions (par défaut, les deux sont le nom de domaine du site). Une fois connecté, ouvrez un navigateur et allez à l'adresse d'administration `http://192.168.11.1`.
-3. **Connectez votre compte** : sur la page d'administration, saisissez l'e-mail et le mot de passe de votre compte, puis enregistrez (les comptes Personnel, Famille et Entreprise peuvent tous utiliser un routeur). Dès lors, chaque appareil connecté à ce Wi-Fi passe automatiquement par le VPN.
+3. **Connectez votre compte** : sur la page d'administration, saisissez l'e-mail et le mot de passe de votre compte, puis enregistrez (les six formules payantes permettent d'utiliser un routeur). Dès lors, chaque appareil connecté à ce Wi-Fi passe automatiquement par le VPN.
 
 ## Changez les mots de passe par défaut
 
@@ -17,7 +17,7 @@ Le mode par défaut est le routage sélectif : les domaines chinois de la liste 
 ## FAQ
 
 - **Le voyant est normal mais les appareils connectés n'ont pas Internet** : vérifiez l'état du compte sur la page d'administration ; un compte expiré comme un mot de passe erroné y sont indiqués.
-- **Vous voulez passer à un autre routeur** : déliez d'abord l'ancien sur le site ; voir [Liaison par adresse MAC et remplacement du routeur](05-mac-binding-and-replacing.md).
+- **Vous voulez passer à un autre routeur** : si la limite de votre formule n'est pas atteinte, le nouveau se connecte directement ; sinon, déliez d'abord l'ancien sur le site ; voir [Liaison par adresse MAC et remplacement du routeur](05-mac-binding-and-replacing.md).
 
 ---
-Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-01) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-01) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Personnel), une offre durable
+Rédigé par l'équipe [LeoTun](https://www.leotun.com/fr?utm_source=github&utm_content=router-01) · Une question ? Consultez la [page de contact](https://www.leotun.com/fr/contact?utm_source=github&utm_content=router-01) (groupes, e-mail et assistance y sont tous indiqués) · Inscrivez-vous pour un essai gratuit de 30 minutes ; invitez un ami qui paie et vous recevez chacun 15 points (environ 15 jours en formule Essentiel), une offre durable
